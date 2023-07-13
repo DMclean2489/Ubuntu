@@ -1,0 +1,3 @@
+#printbanner
+figlet "DarkHaze" -c | lolcat -a && figlet -f digital -c "Terminal Study Hall" | lolcat -a
+
